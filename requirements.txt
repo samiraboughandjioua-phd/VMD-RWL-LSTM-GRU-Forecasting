@@ -1,0 +1,12 @@
+# Pinned to the latest stable PyPI releases as of the study/revision date (September 2026),
+# per the authors' confirmation that the latest available version of each package was used.
+# Tested with Python 3.13 (TensorFlow 2.21 does not yet support Python 3.14 as of this date).
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+statsmodels==0.15.0
+matplotlib==3.11.2
+seaborn==0.13.2
+openpyxl==3.1.5
+tensorflow==2.21.0
