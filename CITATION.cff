@@ -6,4 +6,4 @@ version: "1.0.0"
 date-released: 2026-09-09
 abstract: "Code for LSTM and GRU forecasting of hourly river water levels in the Vietnamese Mekong Delta, including statistical evaluation and figure-generation scripts."
 repository-code: "https://github.com/samiraboughandjioua-phd/VMD-RWL-LSTM-GRU-Forecasting"
-doi: 10.5281/zenodo.XX  # replace XX with the Zenodo-assigned suffix after archiving the GitHub release
+doi: 10.5281/zenodo.22879928
